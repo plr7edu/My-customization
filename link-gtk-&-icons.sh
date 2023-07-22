@@ -22,6 +22,7 @@ echo ""
 echo;tput sgr0
 
 sudo ln -s ~/My-Repos/My-customization/gtk/Matcha/* /usr/share/themes/
+sudo ln -s ~/My-Repos/My-customization/gtk/Arc/* /usr/share/themes/
 
 tput setaf 3;
 echo ""
@@ -32,10 +33,10 @@ echo ""
 echo;tput sgr0
 
 #Surfn
-sudo ln -s ~/My-Repos/My-customization/icons/Surfn\ Icons/* /usr/share/icons
+sudo ln -s ~/My-Repos/My-customization/icons/Surfn/* /usr/share/icons
 
 #Flat-Remix
-sudo ln -s ~/My-Repos/My-customization/icons/Flat-Remix\ Icons/* /usr/share/icons
+sudo ln -s ~/My-Repos/My-customization/icons/Flat-Remix/* /usr/share/icons
 
 
 tput setaf 2;
