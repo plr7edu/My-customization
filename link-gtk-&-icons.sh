@@ -22,7 +22,6 @@ echo ""
 echo;tput sgr0
 
 sudo ln -s $HOME/My-Repo/My-customization/gtk/Matcha/* /usr/share/themes/
-sudo ln -s $HOME/My-Repo/My-customization/gtk/Arc/* /usr/share/themes/
 
 tput setaf 3;
 echo ""
